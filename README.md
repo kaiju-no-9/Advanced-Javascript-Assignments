@@ -55,4 +55,3 @@ For a walkthrough on navigating through the assignments, check out this demo vid
 https://gist.github.com/user-attachments/assets/02c5eca2-29d2-425f-bb50-5e613252a40f
 
 
-### **PS:** If you're stuck on a problem for more than an hour, feel free to check the `solution` folder.
